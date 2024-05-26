@@ -1,0 +1,14 @@
+{
+    "domain": "distribuce24",
+    "name": "EGD Distribuce24 historická data elektroměru",
+    "after_dependencies": ["http"],
+    "codeowners": ["@chipsi"],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/chipsi/homeassistant-distribuce24",
+    "integration_type": "service",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/chipsi/homeassistant-distribuce24/issues",
+    "requirements": [],
+    "version": "0.0.1"
+}
